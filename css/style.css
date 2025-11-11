@@ -67,8 +67,8 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 #slogan h1{
 	font-size: 40px;
-	/* font-family: 'Pacifico', cursive; */
-	font-family: "ヒラギノ丸ゴ Pro", "Hiragino Maru Gothic Pro","ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-family: 'Pacifico', cursive;
+	/* font-family: "ヒラギノ丸ゴ Pro", "Hiragino Maru Gothic Pro","ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; */
 	margin-bottom: 20px;
 	font-weight:normal;
 }
